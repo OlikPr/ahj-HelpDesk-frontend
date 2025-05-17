@@ -18,7 +18,7 @@
   "keywords": [
     "http"
   ],
-  "author": "EvgeniyPryanichnikov",
+  "author": "OlikPr",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.21.0",
